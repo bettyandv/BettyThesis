@@ -1,0 +1,34 @@
+https://d.pcs.baidu.com/file/47dd4f507aaf4c01eb555b8f8e08d59f?fid=3460093810-250528-407678844000102&time=1519528723&rt=sh&sign=FDTAERVY-DCb740ccc5511e5e8fedcff06b081203-lXr50aPLQN0acDxRRQBG%2F1cmRok%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=1286536794525427531&dp-callid=0&r=112059425
+ header=User-Agent: netdisk;5.3.4.5;PC;PC-Windows;5.1.2600;WindowsBaiduYunGuanJia 
+ header=Referer: http://pan.baidu.com/disk/home 
+ header=Cookie: BDUSS=3BPWVNCWlh4TjZqWUJpY0NmNEFvU3RxZWV1TS1QcmpZMEZJcXB1b1FJcmxoN05hQVFBQUFBJCQAAAAAAAAAAAEAAADjgrkGeXVyaWFrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOX6i1rl-otaN; pcsett=1519615107-7ae1e70651c12d39e272d0afe5594c42 
+
+ out=DATA-original/分析师评级及变动2001-2009.zip
+ continue=true
+ max-connection-per-server=10
+ split=10
+ min-split-size=1M
+
+https://d.pcs.baidu.com/file/ca5688dfee4a0fb1c8b4b9206cac7933?fid=3460093810-250528-420177995391039&time=1519528723&rt=sh&sign=FDTAERVY-DCb740ccc5511e5e8fedcff06b081203-HBJ1t1sHhOHcAXv9oNPOGWjymDg%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=1286536794525427531&dp-callid=0&r=485102611
+ header=User-Agent: netdisk;5.3.4.5;PC;PC-Windows;5.1.2600;WindowsBaiduYunGuanJia 
+ header=Referer: http://pan.baidu.com/disk/home 
+ header=Cookie: BDUSS=3BPWVNCWlh4TjZqWUJpY0NmNEFvU3RxZWV1TS1QcmpZMEZJcXB1b1FJcmxoN05hQVFBQUFBJCQAAAAAAAAAAAEAAADjgrkGeXVyaWFrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOX6i1rl-otaN; pcsett=1519615107-7ae1e70651c12d39e272d0afe5594c42 
+
+ out=DATA-original/分析师评级及变动2009-2017.zip
+ continue=true
+ max-connection-per-server=10
+ split=10
+ min-split-size=1M
+
+https://d.pcs.baidu.com/file/e048dc176adb0f8915c8fa50abfd1e80?fid=3460093810-250528-1048000906834595&time=1519528723&rt=sh&sign=FDTAERVY-DCb740ccc5511e5e8fedcff06b081203-0ggNhUUagncenD91Lrs37PCC69U%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=1286536794525427531&dp-callid=0&r=838166844
+ header=User-Agent: netdisk;5.3.4.5;PC;PC-Windows;5.1.2600;WindowsBaiduYunGuanJia 
+ header=Referer: http://pan.baidu.com/disk/home 
+ header=Cookie: BDUSS=3BPWVNCWlh4TjZqWUJpY0NmNEFvU3RxZWV1TS1QcmpZMEZJcXB1b1FJcmxoN05hQVFBQUFBJCQAAAAAAAAAAAEAAADjgrkGeXVyaWFrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOX6i1rl-otaN; pcsett=1519615107-7ae1e70651c12d39e272d0afe5594c42 
+
+ out=DATA-original/分析师评级及变动2017-2018.zip
+ continue=true
+ max-connection-per-server=10
+ split=10
+ min-split-size=1M
+
+
